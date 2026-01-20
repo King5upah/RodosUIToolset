@@ -116,6 +116,10 @@ struct ContentView: View {
 - Swift 5.9+
 - Xcode 15.0+
 
+## 📝 Changelog
+
+See [CHANGELOG.md](CHANGELOG.md) for a list of changes and version history.
+
 ## 📄 License
 
 MIT License - see LICENSE file for details
@@ -123,3 +127,9 @@ MIT License - see LICENSE file for details
 ## 👤 Author
 
 Rodolfo Castillo Vidrio
+
+## 🔗 Links
+
+- **GitHub Repository**: https://github.com/King5upah/RodosUIToolset
+- **Documentation**: See README.md for detailed usage examples
+- **Usage Guide**: See USAGE.md for installation and integration instructions
